@@ -2,4 +2,6 @@ This here will be a great and fascinating project which will change the course o
 
 Thank you.
 
-And goodbye.
+And goodbye. 
+
+We'll be doing a bunch of testing.
